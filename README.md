@@ -1,5 +1,13 @@
 # National Total Body PET - Australian Imaging Service Demonstration
 
+## Logging into AIS XNAT
+
+You can log in using:
+
+* Australian Access Federation (AAF) - Your institutional login
+* Unikey - USyd staff/students only
+* Database - demo & role accounts only
+
 ## Navigating to an imaging session
 
 ### Descend through the tree 
